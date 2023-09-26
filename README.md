@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - :zap: In my free time, I love to dance and read romantic novels.
 
 ### 📫 &nbsp; How to reach me:
-  -  [![Linkedin Badge](https://img.shields.io/badge/-GuneetKakkar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/guneetkakkar)https://www.linkedin.com/in/guneetkakkar)
+  -  <a href="https://www.linkedin.com/in/guneetkakkar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
   - <a href="mailto:guneet.kaur31297@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
