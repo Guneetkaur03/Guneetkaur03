@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 
   ![profile count](https://komarev.com/ghpvc/?username=Guneetkaur03&color=red)&nbsp;
   [![GitHub Guneetkaur03](https://img.shields.io/github/followers/Guneetkaur03?label=follow&style=social)](https://github.com/Guneetkaur03)&nbsp;
